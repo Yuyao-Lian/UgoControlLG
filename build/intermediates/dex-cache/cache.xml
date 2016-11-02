@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3aa2434d2cd59fd2c21be6bfa65942afe58bbb9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuyao Lian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a60a096e65a2bf3965daec90a46caab6227ede11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1a926a1e78b00453e5ebad5f832256f6b1ae0c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9c2514d8273744e3b65c46b63d5a4007c4fde721\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6f82f3322c9b5474b061479b29e7eda0f5a9bc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d96e99ddb87a2968dbfdc9780530b98091c5a92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_d32231ec8b3bd62eef12d505ebbc8223ad121922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdcfb083a64269a66a75d4a0dc19d98950d9dac5">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a284b43edf3b097eeb37468126455e53d599cad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a3ad0ff38bac79bc351893fae6fc0f627d6da416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31d3ce511495f93c244056079dc17570597e1829">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_003cb3d59e1af042b54424674e03b36b7e3638fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0337e91851bad426ab46b1167b1878f09afc90a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a0357480951ceb755127234211718a02121419f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_1d30a87336c1882bd5258325bb834ab1253437b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_070ac20b192dc400f7e0044cf5bd2408139066c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_acfe8e994070a1f478b1fd08d7efa5dbb2bdb190\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_908e7ccfdf8a6e3bc88cccce075d2ed2f942278b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Public\Documents\UgoControlLG\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9131900663a63a6b394a88a9af500375a1d5b8e8\classes.dex" />
+    </item>
+
+</items>

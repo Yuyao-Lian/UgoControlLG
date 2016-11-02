@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/grass"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ugosmoothie.ugocontrolapp.MainActivity">
+
+
+<TableLayout
+    android:layout_height="match_parent"
+    android:layout_marginTop="-10dp"
+    android:layout_width="match_parent">
+
+    <TableRow>
+        <Button
+            android:id="@+id/blendbutton"
+            android:text="BLEND"
+            android:background="@drawable/buttonshape"
+            android:textSize="30dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/blend"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+        <Button
+            android:id="@+id/cleanbutton"
+            android:text="CLEAN"
+            android:background="@drawable/buttonshape"
+            android:textSize="30dp"
+            android:layout_margin="10dp"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+
+        <Button
+            android:id="@+id/stopbutton"
+            android:text="STOP"
+            android:textSize="30dp"
+            android:backgroundTint="@color/stop"
+            android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+
+        </TableRow>
+
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/reblendbutton"
+            android:text="REBLEND"
+            android:background="@drawable/buttonshape"
+            android:textSize="30dp"
+            android:layout_margin="10dp"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+        <Button
+            android:id="@+id/initializebutton"
+            android:text="INITIALIZE"
+            android:textSize="30dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/initialize"
+            android:background="@drawable/buttonshape"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+
+        <ToggleButton
+            android:id="@+id/jogtopbutton"
+            android:layout_width="250dp"
+            android:background="@drawable/buttonshape"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:textOn="top water on"
+            android:textSize="30dp"
+            android:textOff="top water off"
+            />
+        </TableRow>
+
+
+    <TableRow>
+        <ToggleButton
+            android:id="@+id/jogbottombutton"
+            android:textOn="BOT WATER ON"
+            android:textOff="BOT WATER OFF"
+            android:textSize="30dp"
+            android:background="@drawable/buttonshape"
+            android:layout_width="250dp"
+            android:layout_margin="10dp"
+            android:layout_height="100dp"
+            />
+        <ToggleButton
+            android:id="@+id/moveupbutton"
+            android:textOn="MOVE UP"
+            android:textOff="MOVE UP"
+            android:textSize="30dp"
+            android:background="@drawable/buttonshape"
+            android:layout_width="250dp"
+            android:layout_margin="10dp"
+            android:layout_height="100dp"
+            />
+
+        <ToggleButton
+            android:id="@+id/movedownbutton"
+            android:textOn="MOVE DOWN"
+            android:textOff="MOVE DOWN"
+            android:background="@drawable/buttonshape"
+            android:layout_margin="10dp"
+            android:textSize="30dp"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            />
+        </TableRow>
+
+
+    <TableRow
+        android:layout_marginTop="40dp">
+        <ImageView
+            android:id="@+id/redbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/redindicator"
+            android:layout_marginTop="30dp"
+
+            />
+
+        <ToggleButton
+            android:id="@+id/disablekeypadbutton"
+            android:textOn="Use toggles"
+            android:textOff="No toggles "
+            android:background="@drawable/buttonshape"
+            android:textSize="30dp"
+            android:layout_width="180dp"
+            android:layout_margin="10dp"
+            android:layout_height="100dp"
+            />
+
+        <Button
+            android:id="@+id/connectbutton"
+            android:text="CONNECT"
+            android:background="@drawable/buttonshape"
+            android:textSize="30dp"
+            android:layout_width="180dp"
+            android:layout_margin="10dp"
+            android:layout_height="100dp"
+            />
+
+
+    </TableRow>
+
+</TableLayout>>
+
+</RelativeLayout>
